@@ -1,0 +1,30 @@
+{
+    "product":[
+        {   
+            "productName": "Idiazabal",
+            "type":"Lactic",
+            "quantity": 1,
+            "price": 15,
+            "website": "www.atmetller.com/"
+        }
+    ],
+
+    "product1":[
+        {   
+            "productName": "Estrella Galicia",
+            "type":"Drink",
+            "quantity": 12,
+            "price": 0.99,
+            "website": "www.atmetller.com/"
+        }
+    ],
+    "product2":[
+        {   
+            "productName": "Conejo",
+            "type":"Meat",
+            "quantity": 1,
+            "price": 14,
+            "website": "www.atmetller.com/"
+        }
+    ]
+}
