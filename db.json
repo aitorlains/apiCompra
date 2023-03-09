@@ -1,29 +1,32 @@
 {
     "product":[
-        {   
-            "productName": "Idiazabal",
-            "type":"Lactic",
-            "quantity": 1,
-            "price": 15,
+        {
+            "id": 0
+            "productName": "Banana",
+            "productType": "fruit",
+            "price": 1.1f,
+            "quantity": 5,
             "website": "www.atmetller.com/"
         }
     ],
 
-    "product1":[
+    "product":[
         {   
-            "productName": "Estrella Galicia",
-            "type":"Drink",
-            "quantity": 12,
-            "price": 0.99,
+            "id": 1
+            "productName": "Rabbit",
+            "productType": "Meat",
+            "price": 4.7f,
+            "quantity": 1,
             "website": "www.atmetller.com/"
         }
     ],
-    "product2":[
+    "product":[
         {   
-            "productName": "Conejo",
-            "type":"Meat",
-            "quantity": 1,
-            "price": 14,
+            "id": 2
+            "productName": "Beer",
+            "productType": "Other",
+            "price": 1.75f,
+            "quantity": 6,
             "website": "www.atmetller.com/"
         }
     ]
