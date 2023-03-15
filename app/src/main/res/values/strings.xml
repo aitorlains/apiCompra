@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DIE EIER</string>
+
+    <string-array name="Languages">
+        <item>Fruit</item>
+        <item>Meat</item>
+        <item>Vegetable</item>
+        <item>Drink</item>
+        <item>Fish</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="fruit">fruit</string>
+    <string name="Meat">Meat</string>
+    <string name="Vegetable">Vegetable</string>
+    <string name="Drink">Drink</string>
+    <string name="Fish">Fish</string>
+    <string name="Other">Other</string>
+
+
+</resources>
