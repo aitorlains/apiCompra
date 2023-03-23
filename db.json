@@ -7,7 +7,7 @@
          "productType":"fruit",
          "price":1.1,
          "quantity":5,
-         "url":"www.atmetller.com/"
+         "url":"https://www.capraboacasa.com/portal/es"
       },
       {
          "id":1,
@@ -15,7 +15,7 @@
          "productType":"Meat",
          "price":4.7,
          "quantity":1,
-         "url":"www.atmetller.com/"
+         "url":"https://www.capraboacasa.com/portal/es"
       },
       {
          "id":2,
@@ -23,7 +23,7 @@
          "productType":"Other",
          "price":1.75,
          "quantity":6,
-         "url":"www.atmetller.com/"
+         "url":"https://www.capraboacasa.com/portal/es"
       }
    ]
 
